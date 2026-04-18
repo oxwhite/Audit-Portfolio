@@ -12,6 +12,7 @@ You can reach me out via [twitter](https://x.com/oxwhite25)
 | Platform | Contest | Date | Rank | Report |
 |----------|---------|------|------|--------|
 | Sherlock | stNXM | Nov 2025 | #5 | [Link](https://audits.sherlock.xyz/contests/1203) |
+| Sherlock | Rova | Feb 2025 | #2 | [Link](https://audits.sherlock.xyz/contests/498) |
 | Sherlock | vVv Launchpad | Nov 2024 | #1 | [Link](https://audits.sherlock.xyz/contests/647) |
 
 
