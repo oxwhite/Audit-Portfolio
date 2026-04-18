@@ -2,12 +2,12 @@
 
 ## 👋 About Me
 
-I am Independent smart contract security researcher . I do auditing mostly part time. I love auditing and finding bugs. Mostly spending my time by participating contests, researching and learning. I am open to collab and private audits
+I am Independent smart contract security researcher . I do auditing mostly part time. I love auditing and finding bugs. I spend my time mostly by participating contests, researching and learning. I am open to collab and private audits
 
 You can reach me out via [twitter](https://x.com/oxwhite25)
 
 
-## 🏆Highlight in Audit Contest 
+## 🏆Highlight in Audit Contests 
 
 | Platform | Contest | Date | Rank | Report |
 |----------|---------|------|------|--------|
@@ -20,10 +20,18 @@ You can reach me out via [twitter](https://x.com/oxwhite25)
 
 
 **Total Findings:**
-- 🔴 High Severity: 6
+- 🔴 High Severity: 7
 - 🟡 Medium Severity: 15+
 
 ---
+## 🐞 Bug Bounties
+
+| Platform | Date    | Severity | Report |
+|----------|---------|----------|--------|
+| Rujira   | April 2025 | Medium |Private-[link](https://x.com/oxwhite25/status/2039688706622214206)|
+
+
+
 
 **Languages:**
 - Solidity
@@ -31,4 +39,4 @@ You can reach me out via [twitter](https://x.com/oxwhite25)
 - Vyper
 
 
-*Last Updated: January 2026*
+*Last Updated: April 2026*
