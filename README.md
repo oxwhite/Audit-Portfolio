@@ -9,12 +9,12 @@ You can reach me out via [twitter](https://x.com/oxwhite25)
 
 ## 🏆Highlight in Audit Contests 
 
-| Platform | Contest | Date | Rank | Report |
-|----------|---------|------|------|--------|
-| Codearena | K2| May 2026 | -- | Not Disclosed Yet |
-| Sherlock | stNXM | Nov 2025 | #5 | [Link](https://audits.sherlock.xyz/contests/1203) |
-| Sherlock | Rova | Feb 2025 | #2 | [Link](https://audits.sherlock.xyz/contests/498) |
-| Sherlock | vVv Launchpad | Nov 2024 | #1 | [Link](https://audits.sherlock.xyz/contests/647) |
+| Platform   | Contest         | Date       | Rank | Findings | Report                |
+|------------|-----------------|------------|------|----------|-----------------------|
+| Codearena  | K2              | May 2026   | #25   | 3H-9M    | [Link](https://code4rena.com/reports/2026-04-k2)|
+| Sherlock   | stNXM           | Nov 2025   | #4   | 1H-3M    | [Link](https://audits.sherlock.xyz/contests/1203) |
+| Sherlock   | Rova            | Feb 2025   | #2   | 1M        | [Link](https://audits.sherlock.xyz/contests/498)  |
+| Sherlock   | vVv Launchpad   | Nov 2024   | #1   | 1H        | [Link](https://audits.sherlock.xyz/contests/647)  |
 
 
 
@@ -23,8 +23,8 @@ You can reach me out via [twitter](https://x.com/oxwhite25)
 
 
 **Total Findings:**
-- 🔴 High Severity: 7
-- 🟡 Medium Severity: 15+
+- 🔴 High Severity: 10
+- 🟡 Medium Severity: 25+
 
 ---
 ## 🐞 Bug Bounties
@@ -39,7 +39,5 @@ You can reach me out via [twitter](https://x.com/oxwhite25)
 **Languages:**
 - Solidity
 - Rust 
-- Vyper
 
 
-*Last Updated: April 2026*
